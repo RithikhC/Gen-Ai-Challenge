@@ -1,6 +1,6 @@
 # Gen-Ai-Challenge
 
-**Midnight Monolith** is a three-part generative AI framework exploring the intersection of structural architecture and neural fashion synthesis.
+This is a three-part generative AI framework exploring the intersection of structural architecture and neural fashion synthesis.
 
 ---
 
